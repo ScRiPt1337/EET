@@ -21,7 +21,7 @@ Follow these steps to install and run the EET Email Enumeration Tool:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://example.com/.git
+   git clone https://github.com/ScRiPt1337/EET
    ```
 
 2. **Change to the Tool's Directory:**
