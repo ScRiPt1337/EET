@@ -1,4 +1,5 @@
-# EET
+
+# EET Email Enumeration Tool
 
 The EET (Email Enumeration Tool) is a professional tool designed for red teaming. It allows you to send mass emails using SMTP and read emails from IMAP4 and POP3 servers.
 
@@ -13,3 +14,27 @@ The EET (Email Enumeration Tool) is a professional tool designed for red teaming
 - **POP3 Support:** Download emails for offline access and selective downloading.
 
 This tool is essential for red teams conducting email-based assessments and penetration tests.
+
+## Installation and Usage
+
+Follow these steps to install and run the EET Email Enumeration Tool:
+
+1. **Clone the Repository:**
+   ```sh
+   git clone https://example.com/.git
+   ```
+
+2. **Change to the Tool's Directory:**
+   ```sh
+   cd EET
+   ```
+
+3. **Install the Required Dependencies:**
+   ```sh
+   pip3 install -r requirements.txt
+   ```
+
+4. **Run the Tool:**
+   ```sh
+   python3 main.py
+   ```
