@@ -20,7 +20,7 @@ def open_owa_retriever():
 def main():
     dpg.create_context()
 
-    with dpg.window(label="Main Window", width=500, height=300,no_close=True):
+    with dpg.window(label="CONTROL ROOM", width=500, height=300,no_close=True):
         dpg.add_button(label="SMTP MAILER", callback=open_smtp_mailer)
         dpg.add_button(label="Mail READER", callback=lambda: open_mail_retriever(retrieve_emails))
         dpg.add_button(label="OWA Mailer (2FA BYPASS) (Private)", callback=open_owa_mailer)
