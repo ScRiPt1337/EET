@@ -1,0 +1,4 @@
+dearpygui
+mail-parser
+exchangelib
+certifi
