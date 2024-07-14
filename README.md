@@ -10,8 +10,8 @@ The EET (Email Enumeration Tool) is a professional tool designed for red teaming
 - **Customizable Settings:** Configure server, port, and encryption options.
 
 ### Read Emails
-- **IMAP4 Support:** Real-time email synchronization and folder management.
-- **POP3 Support:** Download emails for offline access and selective downloading.
+- **IMAP4 Support:**
+- **POP3 Support:**
 
 This tool is essential for red teams conducting email-based assessments and penetration tests.
 
